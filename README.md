@@ -634,7 +634,6 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents that creates a dedicated branch/worktree per task, delegates to Pi and Codex subagents, and enforces typed task, validation, merge, and release-readiness boundaries with receipt-backed repository changes.
 - [Zagrosi Forge](https://github.com/zagrosi-code/zagrosi-forge) - Decompose broad project briefs into researched plans and implement sectioned work with TDD, quality gates, and traceability.
 - [zui](https://github.com/easysoft/zui) - Codex skills that integrate the ZUI 3 web UI framework into existing projects and generate standalone ZUI-powered pages from plain briefs.
-- [LawBox](https://github.com/Samwang-afk/LawBox) - A collection of 58 Chinese legal workflow skills with unified task routing, source verification, and adversarial review protocols.
 
 ### Tools & Integrations
 
@@ -788,6 +787,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [kunglao-agent](https://github.com/amd2g2zz/kunglao-agent) - Reverse-engineering expert agent for binaries, firmware, protocols, and web/JS: MCP servers registered by kunglao-init (ghidra, sequential-thinking, x64dbg, ...), see the MCP supply table under Internals.
 - [Lacuna Music](https://github.com/JOYLINK-LTD/lacuna-plugin) - Generate original instrumental music and vocal songs from Codex through the Lacuna MCP server.
 - [Langfuse Observability](https://github.com/avivsinai/langfuse-mcp) - Query traces, debug exceptions, analyze sessions, and manage prompts via MCP tools.
+- [LawBox](https://github.com/Samwang-afk/LawBox) - A collection of 58 Chinese legal workflow skills with unified task routing, source verification, and adversarial review protocols.
 - [Launch Fast](https://github.com/BlockchainHB/launchfast_codex_plugin) - Official Launch Fast plugin adapter for rapid SaaS deployment.
 - [lemo-mod](https://github.com/lemomo-ai/lemo-mod) - Claude Code plugin bundle: 21 styles for the terminal and desktop app, plus 16 mods (a panel, usage band, message numbers, speech, session recaps and more), with only looks on at install.
 - [LetsFG](https://github.com/LetsFG/LetsFG) - Flight and hotel search and booking for AI agents across hundreds of airlines and the major booking sites, via a remote MCP server (Claude, ChatGPT, Cursor, Windsurf), CLI, Python/JS SDKs, and an Agent Skill, with free search after a one-time card connection and real airline PNRs on flight bookings.
