@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-20",
-  "total": 921,
+  "total": 922,
   "platforms": [
     "codex",
     "grok",
@@ -3366,6 +3366,20 @@
       "category": "Tools & Integrations",
       "source": "awesome-ai-plugins",
       "install_url": "https://raw.githubusercontent.com/BlockchainHB/launchfast_codex_plugin/HEAD/plugins/launchfast/.codex-plugin/plugin.json",
+      "platform": "codex",
+      "ecosystems": [
+        "codex"
+      ]
+    },
+    {
+      "name": "LawBox",
+      "url": "https://github.com/Samwang-afk/LawBox",
+      "owner": "Samwang-afk",
+      "repo": "LawBox",
+      "description": "A collection of 58 Chinese legal workflow skills with unified task routing, source verification, and adversarial review protocols",
+      "category": "Tools & Integrations",
+      "source": "awesome-ai-plugins",
+      "install_url": "https://raw.githubusercontent.com/Samwang-afk/LawBox/HEAD/.codex-plugin/plugin.json",
       "platform": "codex",
       "ecosystems": [
         "codex"
