@@ -634,6 +634,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents that creates a dedicated branch/worktree per task, delegates to Pi and Codex subagents, and enforces typed task, validation, merge, and release-readiness boundaries with receipt-backed repository changes.
 - [Zagrosi Forge](https://github.com/zagrosi-code/zagrosi-forge) - Decompose broad project briefs into researched plans and implement sectioned work with TDD, quality gates, and traceability.
 - [zui](https://github.com/easysoft/zui) - Codex skills that integrate the ZUI 3 web UI framework into existing projects and generate standalone ZUI-powered pages from plain briefs.
+- [LawBox](https://github.com/Samwang-afk/LawBox) - A collection of 58 Chinese legal workflow skills with unified task routing, source verification, and adversarial review protocols.
 
 ### Tools & Integrations
 
